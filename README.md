@@ -7,5 +7,5 @@ and you also have to clean and processes your data , which means you basically h
 your 'review' should only contain small case alphabet
 
 and your label should be 1 or 0 where
-1 = positive
+1 = positive and
 0 = negetive
